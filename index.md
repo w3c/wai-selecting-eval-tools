@@ -4,8 +4,7 @@ title: "Selecting Web Accessibility Evaluation Tools"
 order: 1
 ---
 
-Page Contents
--------------
+## Page Contents
 
 -   [Introduction](#introduction)
 -   [Considerations for selecting evaluation tools](#considerations)
