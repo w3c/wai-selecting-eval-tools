@@ -20,7 +20,7 @@ Web accessibility evaluation tools are software programs or online services. The
 
 Automated web accessibility evaluation tools are unable to test all accessibility criteria. Many aspects of accessibility need human verification. 
 
-The [Web Accessibility Tool List](http://www.w3.org/WAI/ER/existingtools.html) provides several features of evaluation tools. Some of these features include: 
+The [Web Accessibility Tool List](https://www.w3.org/WAI/ER/tools/) provides several features of evaluation tools. Some of these features include: 
 
 - Guidelines
 - Specific uses of the tool
@@ -54,7 +54,7 @@ But we cannot check all aspects of a site's accessibility automatically. Human j
 
 Web accessibility evaluation tools often have many features. The features are sometimes similar from one tool to another. Sometimes they are very different. 
 
-The following features describe tools found on the [Web Accessibility Tool List](http://www.w3.orf/WAI/ER/existingtools.html). Analyse each tool carefully because not all all tools implement all features adequately.
+The following features describe tools found on the [Web Accessibility Tool List](https://www.w3.org/WAI/ER/tools/). Analyse each tool carefully because not all all tools implement all features adequately.
 
 ### Guidelines
 
