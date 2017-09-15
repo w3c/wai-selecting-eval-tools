@@ -42,14 +42,14 @@ Finally, this document offers further aspects to consider, such as:
 
 *Disclaimer*: WAI encourages the development and evolution of Web accessibility evaluation tools. WAI maintains an extensive [list of evaluation, repair and transformation tools](https://www.w3.org/WAI/ER/tools/). WAI does not endorse or promote any single tool or vendor.
 
-## What to expect from evaluations tools
+## What to Expect from Evaluations Tools
 {:#Expect}
 
 Web accessibility evaluation tools can be a powerful part of a developer's arsenal. You can use evaluation tools through all phases of Web site development. They assist with determining the level of accessibility of Web sites. Evaluation tools can verify the conformance of Web sites for items that can be reviewed automatically. They can also help with manual reviews.
 
 But we cannot check all aspects of a site's accessibility automatically. Human judgement is often required. Sometimes evaluation tools can produce false or misleading results. Web accessibility evaluation tools can not *determine* the accessibility of Web sites. They can only *assist* in doing so.
 
-## Features of evaluation tools
+## Features of Evaluation Eools
 {:#Features}
 
 Web accessibility evaluation tools often have many features. The features are sometimes similar from one tool to another. Sometimes they are very different. 
@@ -64,11 +64,11 @@ Tools test sets of guideline checkpoints to verify conformance of a Web site. In
 
 Lists what the specific uses of the tool, e.g. generating reports, providing step-by-step guidance, or displaying information within a web page
 
-### Authoring tools
+### Authoring Tools
 
 Lists which authoring tool the evaluation tool integrates with, e.g. MS Word, Adobe Acrobat, etc.
 
-### Automatically checks
+### Automatically Checks
 
 The scope of what the evaluation tool can test. Sometimes a single page. Other times entire groups of related pages.
 
@@ -85,15 +85,15 @@ Describes which API are available, if any, e.g. Java, Rest, etc
 Lists the browsers for which a plugin exist, if any. Plugins can be important for workflow integration. But their parent application may constrain their usefulness.
 
 
-### Supported formats
+### Supported Formats
 
 Lists the format the tool can test, e.g. HTML, CSS, PDF, etc.
 
-### Online service
+### Online Service
 
 Which services are offered online, e.g. Online checker, Hosted services, or Server installation
 
-### Report format
+### Report Format
 
 Lists the report format(s) the tool generates, e.g. HTML, CSV, Jira, PDF, XML, etc. 
 
@@ -101,11 +101,11 @@ Lists the report format(s) the tool generates, e.g. HTML, CSV, Jira, PDF, XML, e
 
 Which licenses the evaluation tool offers, e.g. Open Source, Commercial, Enterprise, etc.
 
-### Accessibility information
+### Accessibility Information
 
 People with disabilities can and do contribute to the Web. It is important that evaluation tools work for people with disabilities.
 
-### Specific operation usages
+### Specific Operation Usages
 
 Some web accessibility evaluation tools can be used in more than one way. The following are some common tool characteristics used to support the evaluation process:
 
@@ -117,7 +117,7 @@ Some web accessibility evaluation tools can be used in more than one way. The fo
 
 - *Page transformation*. Transformation tools change the appearance of a site to help identify design issues. For example, the tool may show the site in text only or without color. These tools are useful to compensate for the limitations of automated testing.
 
-## Further considerations
+## Further Considerations
 {:#Further}
 
 There are many considerations to take into account when selecting an evaluation tool.
@@ -128,19 +128,19 @@ Web designers could be looking for tools to analyse their design's accessibility
 
 You may wish to consider the following items when selecting an evaluation tool:
 
-### Organizational structure and development process
+### Organizational Structure and Development Process
 
 Larger organizations may gain from using a combination of evaluation tools. Using a combination of tools could meet the various teams' needs during all stages of the project.
 
-### Complexity and size of the Web site
+### Complexity and Size of the Web Site
 
 Some complex sites could have a lot of multimedia content. Other complex sites could use advanced technologies such as SMIL or MathML. Specialized evaluation tools may be more useful for these sites, even if they may be more limited. 
 
-### Skills and knowledge of the Web developers
+### Skills and Knowledge of the Web Developers
 
 Select the tool commensurate to the developer's skills. Some evaluation tools require users to have more knowledge of accessibility or code. Developers may also use some tools to increase their accessibility or code knowledge.
 
-## Related pages
+## Related Pages
 {:#related}
 
 
