@@ -58,15 +58,15 @@ The following features describe tools found on the [Web Accessibility Tool List]
 
 ### Guidelines
 
-The guideline(s) to verify conformance. This is typically WCAG 2.0 or Section 508. But other guidelines may be checked such as the French, German, or Japanese standards. 
+Tools are developed to test a set of guideline checkpoints which verify conformance of a Web site. In the United States, the guidelines are WCAG 2.0 or Section 508. Guidelines that are available for other countries include France, Germany, Italy, Ireland, Japan, and others.
 
 ### Assists by
 
-Lists what the specific uses of the tool.
+Lists what the specific uses of the tool, e.g. generating reports, providing step-by-step guidance, or displaying information within a web page
 
 ### Authoring tools
 
-Which authoring tool the evaluation tool integrates with, e.g. MS Word, Adobe Acrobat, etc.
+Lists which authoring tool the evaluation tool integrates with, e.g. MS Word, Adobe Acrobat, etc.
 
 ### Automatically checks
 
@@ -111,11 +111,11 @@ Some web accessibility evaluation tools can be used in more than one way. The fo
 
 - *Reports*. Reports generally provide information about many pages or whole sites. They are useful to determine the conformance of the checkpoints that can be automatically checked.
 
-- *Step-by-step evaluations*. Wizard-based evaluation tools guide users through sequences of check step by step. They are able to conduct automated checks and prompt the user to manually assess the rest. For example a wizard-based tool may check images for alternate text. The user then evaluates how appropriate the alternate text is.
+- *Step-by-step evaluations*. Wizard-based evaluation tools guide users through sequences of checks, step by step. They are able to conduct automated checks and prompt the user to manually assess the rest. For example a wizard-based tool may check images for alternate text. The user then evaluates how appropriate the alternate text is.
 
 - *In-page feedback*. This feature inserts temporary icons and markup to display results of accessibility checks. They are useful to view issues in context. They are also useful to understand the relative importance of each issue.
 
-- *Page transformation*. Transformation tools change the appearance of a site to help identify design issues. For example, the tool may show the site in text only or without color. These tools are useful to compensate the limitations of automated testing.
+- *Page transformation*. Transformation tools change the appearance of a site to help identify design issues. For example, the tool may show the site in text only or without color. These tools are useful to compensate for the limitations of automated testing.
 
 ## Further considerations
 {:#Further}
@@ -124,7 +124,7 @@ There are many considerations to take into account when selecting an evaluation 
 
 Each organization, project and team will have differing needs for different features.
 
-Web designers could be looking for tools to analyse their design's accessibility performance. Web developers will prefer tools that helps them assess their code. Web content authors have different requirements to help them complete their tasks. An organization may need a fully automated evaluation tool to track their whole Web site. Another organization may only need occasional spot checks.
+Web designers could be looking for tools to analyse their design's accessibility performance. Web developers will prefer tools that help them assess their code. Web content authors have different requirements to help them complete their tasks. An organization may need a fully automated evaluation tool to track their whole Web site. Another organization may only need occasional spot checks.
 
 You may wish to consider the following items when selecting an evaluation tool:
 
