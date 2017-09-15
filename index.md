@@ -40,7 +40,7 @@ Finally, this document offers further aspects to consider, such as:
 - Complexity and size of Web site
 - Skills and knowledge of Web developers
 
-*Disclaimer*: WAI encourages the development and evolution of Web accessibility evaluation tools. WAI maintains an extensive [list of evaluation, repair and transformation tools](http://www.w3.org/WAI/ER/existingtools.html). WAI does not endorse or promote any single tool or vendor.
+*Disclaimer*: WAI encourages the development and evolution of Web accessibility evaluation tools. WAI maintains an extensive [list of evaluation, repair and transformation tools](https://www.w3.org/WAI/ER/tools/). WAI does not endorse or promote any single tool or vendor.
 
 ## What to expect from evaluations tools
 {:#Expect}
