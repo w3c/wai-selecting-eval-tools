@@ -49,7 +49,7 @@ Web accessibility evaluation tools can be a powerful part of a developer's arsen
 
 But we cannot check all aspects of a site's accessibility automatically. Human judgement is often required. Sometimes evaluation tools can produce false or misleading results. Web accessibility evaluation tools can not *determine* the accessibility of Web sites. They can only *assist* in doing so.
 
-## Features of Evaluation Eools
+## Features of Evaluation Tools
 {:#Features}
 
 Web accessibility evaluation tools often have many features. The features are sometimes similar from one tool to another. Sometimes they are very different. 
