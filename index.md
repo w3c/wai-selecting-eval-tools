@@ -58,7 +58,7 @@ The following features describe tools found on the [Web Accessibility Tool List]
 
 ### Guidelines
 
-Tools are developed to test a set of guideline checkpoints which verify conformance of a Web site. In the United States, the guidelines are WCAG 2.0 or Section 508. Guidelines that are available for other countries include France, Germany, Italy, Ireland, Japan, and others.
+Tools test sets of guideline checkpoints to verify conformance of a Web site. In the United States, the guidelines are WCAG 2.0 or Section 508. Guidelines are available for other countries, such as France, Germany, Japan, and others. 
 
 ### Assists by
 
