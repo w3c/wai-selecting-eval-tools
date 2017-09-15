@@ -54,7 +54,7 @@ But we cannot check all aspects of a site's accessibility automatically. Human j
 
 Web accessibility evaluation tools often have many features. The features are sometimes similar from one tool to another. Sometimes they are very different. 
 
-The following features describe tools found on the [Web Accessibility Tool List](https://www.w3.org/WAI/ER/tools/). Analyse each tool carefully because not all all tools implement all features adequately.
+The following features describe tools found on the [Web Accessibility Tool List](https://www.w3.org/WAI/ER/tools/). Analyse each tool carefully because not all tools implement all features adequately.
 
 ### Guidelines
 
