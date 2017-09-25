@@ -16,49 +16,33 @@ order: 1
 ## Introduction
 {:#introduction}
 
-Web accessibility evaluation tools are software programs or online services. They help determine if a Web site is accessible. This document highlights features of evaluation tools. It discusses different aspects of evaluation tools to consider when selecting these tools. 
-
-Automated web accessibility evaluation tools are unable to test all accessibility criteria. Many aspects of accessibility need human verification. 
-
-The [Web Accessibility Tool List](https://www.w3.org/WAI/ER/tools/) provides several features of evaluation tools. Some of these features include: 
-
-- Guidelines
-- Specific uses of the tool
-- What authoring tools integrate with the evaluation tool
-- API
-- Browser plugin
-- etc.
-
-This document also discusses some specific usage of evaluation tools, such as:
-- Reports
-- Step-by-step evaluation
-- In-page feedback
-- Page transformation
-
-Finally, this document offers further aspects to consider, such as:
-- Organizational structure and development process
-- Complexity and size of Web site
-- Skills and knowledge of Web developers
-
-*Disclaimer*: WAI encourages the development and evolution of Web accessibility evaluation tools. WAI maintains an extensive [list of evaluation, repair and transformation tools](https://www.w3.org/WAI/ER/tools/). WAI does not endorse or promote any single tool or vendor.
+Web accessibility evaluation tools are software programs or online servicesthat help determine if a Web site is accessible. This document highlights features of evaluation tools, and discusses different aspects to consider when selecting these tools. Links to different tools is provide in the [Web Accessibility Tool List](https://www.w3.org/WAI/ER/tools/).
 
 ## What to Expect from Evaluations Tools
 {:#Expect}
 
-Web accessibility evaluation tools can be a powerful part of a developer's arsenal. You can use evaluation tools through all phases of Web site development. They assist with determining the level of accessibility of Web sites. Evaluation tools can verify the conformance of Web sites for items that can be reviewed automatically. They can also help with manual reviews.
+Web accessibility evaluation tools can help you quickly identify potential accessibility issues. You can use them through all phases of the web design and development process. Tools can provide fully-automated checks, as well as help you with manual review.
 
-But we cannot check all aspects of a site's accessibility automatically. Human judgement is often required. Sometimes evaluation tools can produce false or misleading results. Web accessibility evaluation tools can not *determine* the accessibility of Web sites. They can only *assist* in doing so.
+But we cannot check all accessibility aspects automatically. Human judgement is often required. Sometimes evaluation tools can produce false or misleading results. Web accessibility evaluation tools can not *determine* accessibility, they can only *assist* in doing so.
 
 ## Features of Evaluation Tools
 {:#Features}
 
-Web accessibility evaluation tools often have many features. The features are sometimes similar from one tool to another. Sometimes they are very different. 
+Web accessibility evaluation tools target different audiences. This includes designers, developers, non-technical content authors, quality assurance testers, and sometimes also end-users. Thus tools tend to offer different features and functionality.
 
-The following features describe tools found on the [Web Accessibility Tool List](https://www.w3.org/WAI/ER/tools/). Analyse each tool carefully because not all tools implement all features adequately.
+The following features describe tools found on the [Web Accessibility Tool List](https://www.w3.org/WAI/ER/tools/).
 
 ### Guidelines
 
-Tools test sets of guideline checkpoints to verify conformance of a Web site. In the United States, the guidelines are WCAG 2.0 or Section 508. Guidelines are available for other countries, such as France, Germany, Japan, and others. 
+Different organizations and governments may require conformance with different accessibility standards, thus different tools support these standards. The W3C Web Content Accessibility Guidelines (WCAG) is internationally recognized as the standard for web accessibility, and supported by most tools.
+
+### Language
+
+Evaluation tools support different languages. This includes the user interface of the tools, as well as the language of the content they support (for example for detecting language-related barriers).
+
+### Type of Tool
+
+@@@ something here to describe the matching filter on the tools list
 
 ### Assists by
 
@@ -71,10 +55,6 @@ Lists which authoring tool the evaluation tool integrates with, e.g. MS Word, Ad
 ### Automatically Checks
 
 The scope of what the evaluation tool can test. Sometimes a single page. Other times entire groups of related pages.
-
-### Language
-
-The languages the evaluation tool supports.
 
 ### API
 
@@ -130,27 +110,12 @@ You may wish to consider the following items when selecting an evaluation tool:
 
 ### Organizational Structure and Development Process
 
-Larger organizations may gain from using a combination of evaluation tools. Using a combination of tools could meet the various teams' needs during all stages of the project.
+Development teams may gain from using a combination of evaluation tools. Using a combination of tools could meet the various teams members' needs during all stages of the project.
 
-### Complexity and Size of the Web Site
+### Complexity and Size of the Web Content
 
 Some complex sites could have a lot of multimedia content. Other complex sites could use advanced technologies such as SMIL or MathML. Specialized evaluation tools may be more useful for these sites, even if they may be more limited. 
 
 ### Skills and Knowledge of the Web Developers
 
 Select the tool commensurate to the developer's skills. Some evaluation tools require users to have more knowledge of accessibility or code. Developers may also use some tools to increase their accessibility or code knowledge.
-
-## Related Pages
-{:#related}
-
-
-
-
-
-
-
-
-
-This document is part of a multi-page [Evaluating Web Accessibility
-resource suite](#) that outlines different approaches for
-evaluating Web accessibility.
