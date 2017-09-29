@@ -28,7 +28,7 @@ But we cannot check all accessibility aspects automatically. Human judgement is 
 ## Features of Evaluation Tools
 {:#Features}
 
-Web accessibility evaluation tools target different audiences. This includes designers, developers, non-technical content authors, quality assurance testers, and sometimes also end-users. Thus tools tend to offer different features and functionality.
+Web accessibility evaluation tools target different audiences. This includes designers, developers, non-technical content authors, quality assurance testers, and sometimes also end-users. Tools tend to offer different features and functionality which may help users to compare and assess Web accessibility evaluation tools for their specific needs.
 
 The following features describe tools found on the [Web Accessibility Tool List](https://www.w3.org/WAI/ER/tools/).
 
