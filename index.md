@@ -30,7 +30,11 @@ But we cannot check all accessibility aspects automatically. Human judgement is 
 
 Web accessibility evaluation tools target different audiences. This includes designers, developers, non-technical content authors, quality assurance testers, and sometimes also end-users. Tools tend to offer different features and functionality which may help users to compare and assess Web accessibility evaluation tools for their specific needs.
 
-The following features describe tools found on the [Web Accessibility Tool List](https://www.w3.org/WAI/ER/tools/). Please note most of the following features are usable as filters on the tool list.
+The following features describe tools found on the [Web Accessibility Tool List](https://www.w3.org/WAI/ER/tools/). 
+
+### Features You Can Use as a Filter
+
+You may use the following features to reduce the number of evaluation tools listed.
 
 * **Guidelines**  
 Different organizations and governments may require conformance with different accessibility standards, thus different tools support these standards. The W3C Web Content Accessibility Guidelines (WCAG) is internationally recognized as the standard for web accessibility, and supported by most tools.
@@ -41,14 +45,22 @@ Evaluation tools support different languages. This includes the user interface o
 * **Type of Tool**  
 Lists the platform and type of tools that are available, e.g. authoring tool or browser plugin, command line, desktop or mobile application.
 
+* **Supported Formats**  (referred to as "Technology" in the filters)
+Lists the format the tool can test, e.g. HTML, CSS, PDF, etc.
+
 * **Assists by**  
 Lists what the specific uses of the tool, e.g. generating reports, providing step-by-step guidance, or displaying information within a web page
 
-* **Authoring Tools**  
-Lists which authoring tool the evaluation tool integrates with, e.g. MS Word, Adobe Acrobat, etc.
-
 * **Automatically Checks**  
 The scope of what the evaluation tool can test. Sometimes a single page. Other times entire groups of related pages.
+
+* **License**  
+Which licenses the evaluation tool offers, e.g. Open Source, Commercial, Enterprise, etc.
+
+### Other Features
+
+* **Authoring Tools**  
+Lists which authoring tool the evaluation tool integrates with, e.g. MS Word, Adobe Acrobat, etc.
 
 * **API**  
 Describes which API are available, if any, e.g. Java, Rest, etc
@@ -56,17 +68,11 @@ Describes which API are available, if any, e.g. Java, Rest, etc
 * **Browser Plugin**  
 Lists the browsers for which a plugin exist, if any. Plugins can be important for workflow integration. But their parent application may constrain their usefulness.
 
-* **Supported Formats**  
-Lists the format the tool can test, e.g. HTML, CSS, PDF, etc.
-
 * **Online Service**  
 Which services are offered online, e.g. Online checker, Hosted services, or Server installation
 
 * **Report Format**  
 Lists the report format(s) the tool generates, e.g. HTML, CSV, Jira, PDF, XML, etc. 
-
-* **License**  
-Which licenses the evaluation tool offers, e.g. Open Source, Commercial, Enterprise, etc.
 
 * **Accessibility Information**  
 People with disabilities can and do contribute to the Web. It is important that evaluation tools work for people with disabilities.
