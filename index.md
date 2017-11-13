@@ -16,7 +16,7 @@ order: 1
 ## Introduction
 {:#introduction}
 
-Web accessibility evaluation tools are software programs or online services that help determine if a Web site is accessible. This document highlights features of evaluation tools, and discusses different aspects to consider when selecting these tools. Links to different tools are provided in the [Web Accessibility Tool List](https://www.w3.org/WAI/ER/tools/).
+Web accessibility evaluation tools are software programs or online services that help determine if a website is accessible. This document highlights features of evaluation tools, and discusses different aspects to consider when selecting these tools. Links to different tools are provided in the [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/).
 
 ## What to Expect from Evaluations Tools
 {:#Expect}
@@ -28,7 +28,7 @@ But we cannot check all accessibility aspects automatically. Human judgement is 
 ## Features of Evaluation Tools
 {:#Features}
 
-Web accessibility evaluation tools target different audiences. This includes designers, developers, non-technical content authors, quality assurance testers, and sometimes also end-users. Tools tend to offer different features and functionality which may help users to compare and assess Web accessibility evaluation tools for their specific needs.
+Web accessibility evaluation tools target different audiences. This includes designers, developers, non-technical content authors, quality assurance testers, and sometimes also end-users. Tools tend to offer different features and functionality which may help users to compare and assess web accessibility evaluation tools for their specific needs.
 
 The following features describe tools found on the [Web Accessibility Tool List](https://www.w3.org/WAI/ER/tools/). 
 
@@ -45,7 +45,7 @@ Evaluation tools support different languages. This includes the user interface o
 * **Type of Tool**  
 Lists the platform and type of tools that are available, e.g. authoring tool or browser plugin, command line, desktop or mobile application.
 
-* **Supported Formats**  (referred to as "Technology" in the filters)
+* **Supported Formats** 
 Lists the format the tool can test, e.g. HTML, CSS, PDF, etc.
 
 * **Assists by**  
