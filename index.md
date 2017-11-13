@@ -83,7 +83,7 @@ Evaluation tools provide different types of online services:
   
   * *Hosted services* can regularly check your entire website and provide reports on improvements over time. They may also offer other solutions for enterprises. Usualy these require subscription with the tool vendor.
   
-  * *Server installation* Some evaluation tools can be installed within your own network. They can provide similar feature to those of hosted services. The can sometimes check password-restricted or draft content. 
+  * *Server installation* of some evaluation tools provides an integrated way to check the entirety of your website on your internal network. They can sometimes check password-restricted or draft content. 
 
 * **Report Format**  
 Lists the report format(s) the tool generates, e.g. HTML, CSV, Jira, PDF, XML, etc. 
