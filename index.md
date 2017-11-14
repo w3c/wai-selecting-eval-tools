@@ -32,7 +32,7 @@ Web accessibility evaluation tools target different audiences. This includes des
 
 The following features describe tools found on the [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/). 
 
-### Features You Can Use as a Filter
+### Main Features
 
 You may use the following features to reduce the number of evaluation tools listed.
 
@@ -65,6 +65,9 @@ The scope of what the evaluation tool can automatically test. Sometimes a single
 * **License**  
 Which licenses the evaluation tool offers, such as Open Source, Commercial, Enterprise, etc.
 
+* **Accessibility Information**  
+People with disabilities can and do contribute to the Web. It is important for evaluation tools to be accessible for people with disabilities. Some tools provide information on how well they support accessibility.
+
 ### More Detailed Features
 
 * **Authoring Tools**  
@@ -87,10 +90,6 @@ Evaluation tools provide different types of online services:
 
 * **Report Format**  
 Lists the report format(s) the tool generates, e.g. HTML, CSV, Jira, PDF, XML, etc. 
-
-* **Accessibility Information**  
-People with disabilities can and do contribute to the Web. It is important for evaluation tools to be accessible for people with disabilities. Some tools provide information on how well they support accessibility.
-
 
 ## Further Considerations
 {:#Further}
