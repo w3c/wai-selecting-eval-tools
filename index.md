@@ -30,11 +30,9 @@ But we cannot check all accessibility aspects automatically. Human judgement is 
 
 Web accessibility evaluation tools target different audiences. This includes designers, developers, non-technical content authors, quality assurance testers, and sometimes also end-users. Tools tend to offer different features and functionality which may help users to compare and assess web accessibility evaluation tools for their specific needs.
 
-The following features describe tools found on the [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/). 
-
 ### Main Features
 
-You may use the following features to reduce the number of evaluation tools listed.
+The following features describe tools found on the [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/). These can be used as filters to reduce the number of tools shown.
 
 * **Guidelines**  
 Different organizations and governments may require conformance with different accessibility standards, thus different tools support these standards. The W3C Web Content Accessibility Guidelines (WCAG) is internationally recognized as the standard for web accessibility, and supported by most tools.
@@ -43,10 +41,10 @@ Different organizations and governments may require conformance with different a
 Evaluation tools support different languages. This includes the user interface of the tools, as well as the language of the content they support (for example for detecting language-related barriers).
 
 * **Type of Tool**  
-Lists the platform and type of tools that are available, e.g. authoring tool or browser plugin, command line, desktop or mobile application.
+Evaluation tools can be plugins (extensions) for authoring tools and web browsers, command line tools, desktop or mobile applications, and online services. Diffent tools may be combined, depending on your design and development process.
 
 * **Supported Formats** 
-Lists the format the tool can test, e.g. HTML, CSS, PDF, etc.
+Most evaluation tools check the accessibility of HTML content. Some also support other web technologies, such as WAI-ARIA, CSS, SVG, and PDF.
 
 * **Assists by**  
 Some web accessibility evaluation tools can be used in more than one way. The following are some common characteristics used to support the evaluation process:
