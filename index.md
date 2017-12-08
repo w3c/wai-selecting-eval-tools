@@ -72,6 +72,8 @@ People with disabilities can and do contribute to the Web. It is important for e
 
 ### More Detailed Features
 
+The following features are other options available in evaluation tools. Some features listed are available in the [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/) under Type of Tool.
+
 * **Authoring Tool Plugins**  
 Such plugin tools often assist non-technical content authors to check the content they are creating directly within their authoring tools. These include MS Word, Adobe Acrobat, content management systems, as well as other tools.
 
