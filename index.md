@@ -27,7 +27,7 @@ Web accessibility evaluation tools are software programs or online services that
 
 Web accessibility evaluation tools can help you quickly identify potential accessibility issues. You can use them through all phases of the web design and development process. Tools can provide fully-automated checks, as well as help you with manual review.
 
-But we cannot check all accessibility aspects automatically. Human judgement is often required. Sometimes evaluation tools can produce false or misleading results. Web accessibility evaluation tools can not *determine* accessibility, they can only *assist* in doing so.
+We cannot check all accessibility aspects automatically. Human judgement is required. Sometimes evaluation tools can produce false or misleading results. Web accessibility evaluation tools can not *determine* accessibility, they can only *assist* in doing so.
 
 ## Features of Evaluation Tools
 {:#Features}
