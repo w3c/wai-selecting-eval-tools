@@ -4,14 +4,18 @@ title: "Selecting Web Accessibility Evaluation Tools"
 order: 1
 ---
 
-## Page Contents
+{::options toc_levels="2" /}
 
--   [Introduction](#introduction)
--   [What to expect from evaluation tools](#expect)
--   [Features of evaluation tools](#features)
--  [Further considerations](#further)
--   [Related pages](#related)
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{:/}
 
+-   TOC is created automatically.
+{:toc}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
 
 ## Introduction
 {:#introduction}
