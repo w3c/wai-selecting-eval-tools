@@ -72,14 +72,14 @@ People with disabilities can and do contribute to the Web. It is important for e
 
 ### More Detailed Features
 
-* **Authoring Tools**  
-Lists which authoring tool the evaluation tool integrates with. Such plugin tools often assist non-technical content authors to check the content they are creating directly within their authoring tools. These include MS Word, Adobe Acrobat, content management systems, as well as other tools.
+* **Authoring Tool Plugins**  
+Such plugin tools often assist non-technical content authors to check the content they are creating directly within their authoring tools. These include MS Word, Adobe Acrobat, content management systems, as well as other tools.
 
 * **API**  
 Some authoring and quality assurance tools can access some evaluation tools directly. The evaluation tools offer different types of APIs to allow this interaction. 
 
 * **Browser Plugin**  
-Lists the browsers for which a plugin exists, if any. Such plugins may assist web designers, quality assurance testers, and evaluation experts to check content directly within the browser.
+Such plugins may assist web designers, quality assurance testers, and evaluation experts to check content directly within the browser.
 
 * **Online Service**  
 Evaluation tools provide different types of online services:
@@ -91,7 +91,7 @@ Evaluation tools provide different types of online services:
   * *Server installation* of some evaluation tools provides an integrated way to check the entirety of your website on your internal network. They can sometimes check password-restricted or draft content. 
 
 * **Report Format**  
-Lists the report format(s) the tool generates, e.g. HTML, CSV, Jira, PDF, XML, etc. 
+Many tools generate report format(s) such as HTML, CSV, PDF, XML, etc. 
 
 ## Further Considerations
 {:#Further}
