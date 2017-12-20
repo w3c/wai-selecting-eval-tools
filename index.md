@@ -62,10 +62,10 @@ Some web accessibility evaluation tools can be used in more than one way. The fo
   * *Page transformation*: Transformation tools change the appearance of a site to help identify design issues. For example, the tool may show the site in text only or without color. These tools are useful to compensate for the limitations of automated testing.
 
 * **Automatically Checks**<br>
-The scope of what the evaluation tool can automatically test. Sometimes a single page. Other times entire groups of related pages. Some can also access password-restricted content.
+The scope of what the evaluation tool can automatically test varies depending on the tool. Some tools check a single page, while others check entire groups of related pages. Some can also access password-restricted content.
 
 * **License**<br>
-Which licenses the evaluation tool offers, such as Open Source, Commercial, Enterprise, etc.
+Evaluation tools are available under a variety of license types, such as Open Source, Commercial, Enterprise, etc.
 
 * **Accessibility Information**<br>
 People with disabilities can and do contribute to the Web. It is important for evaluation tools to be accessible for people with disabilities. Some tools provide information on how well they support accessibility.
