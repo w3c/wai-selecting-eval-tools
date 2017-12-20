@@ -22,17 +22,17 @@ order: 1
 
 Web accessibility evaluation tools are software programs or online services that help determine if a website is accessible. This document highlights features of evaluation tools, and discusses different aspects to consider when selecting these tools. Links to different tools are provided in the [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/).
 
-## What to Expect from Evaluations Tools
+## What to Expect from Evaluation Tools
 {:#Expect}
 
-Web accessibility evaluation tools can help you quickly identify potential accessibility issues. You can use them through all phases of the web design and development process. Tools can provide fully-automated checks, as well as help you with manual review.
+Web accessibility evaluation tools can help you quickly identify potential accessibility issues. You can use them through all phases of the web design and development process. Tools can provide fully-automated checks, and help you with manual review.
 
 We cannot check all accessibility aspects automatically. Human judgement is required. Sometimes evaluation tools can produce false or misleading results. Web accessibility evaluation tools can not *determine* accessibility, they can only *assist* in doing so.
 
 ## Features of Evaluation Tools
 {:#Features}
 
-Web accessibility evaluation tools target different audiences. This includes designers, developers, non-technical content authors, quality assurance testers, and sometimes also end-users. Tools tend to offer different features and functionality which may help users to compare and assess web accessibility evaluation tools for their specific needs.
+Web accessibility evaluation tools target different audiences. This includes designers, developers, non-technical content authors, quality assurance testers, and sometimes also end-users. Tools offer different features and functionality which may help users to compare and assess web accessibility evaluation tools for their specific needs.
 
 ### Main Features
 
@@ -42,20 +42,20 @@ The following features describe tools found on the [Web Accessibility Evaluation
 Different organizations and governments may require conformance with different accessibility standards, thus different tools support these standards. The W3C Web Content Accessibility Guidelines (WCAG) is internationally recognized as the standard for web accessibility, and supported by most tools.
 
 * **Language**<br>
-Evaluation tools support different languages. This includes the user interface of the tools, as well as the language of the content they support (for example for detecting language-related barriers).
+Evaluation tools support different languages. This includes the user interface of the tools, as well as the language of the content they support (for example, for detecting language-related barriers).
 
 * **Type of Tool**<br>
 Evaluation tools can be plugins (extensions) for authoring tools and web browsers, command line tools, desktop or mobile applications, and online services. Diffent tools may be combined, depending on your design and development process.
 
 * **Supported Formats**<br>
-Most evaluation tools check the accessibility of HTML content. Some also support other web technologies, such as WAI-ARIA, CSS, SVG, and PDF.
+Most evaluation tools check the accessibility of HTML content. Some check other web technologies, such as WAI-ARIA, CSS, SVG, and PDF.
 
 * **Assists by**<br>
 Some web accessibility evaluation tools can be used in more than one way. The following are some common characteristics used to support the evaluation process:
 
   * *Reports* are useful to determine the conformance of the checkpoints that can be automatically checked.
 
-  * *Step-by-step evaluations*: Wizard-based evaluation tools guide users through sequences of checks. They conduct automated checks and prompt the user to manually assess the rest. For example a wizard-based tool may check images for alternate text. The user then evaluates how appropriate the alternate text is.
+  * *Step-by-step evaluations*: Wizard-based evaluation tools guide users through sequences of checks. They conduct automated checks and prompt the user to manually assess the rest. For example, a wizard-based tool may check images for alternate text. The user then evaluates how appropriate the alternate text is.
 
   * *In-page feedback*: This feature inserts temporary icons and markup to display results of accessibility checks. They are useful to view issues in context. They are also useful to understand the relative importance of each issue.
 
@@ -90,21 +90,21 @@ Evaluation tools provide different types of online services:
 
   * *Hosted services* can regularly check your entire website and provide reports on improvements over time. They may also offer other solutions for enterprises. Usualy these require subscription with the tool vendor.
 
-  * *Server installation* of some evaluation tools provides an integrated way to check the entirety of your website on your internal network. They can sometimes check password-restricted or draft content.
+  * *Server installation* of some evaluation tools provides an integrated way to check your entire website on your internal network. They can sometimes check password-restricted or draft content.
 
 * **Report Format**<br>
-Many tools generate report format(s) such as HTML, CSV, PDF, XML, etc.
+Many tools generate report formats such as HTML, CSV, PDF, XML, etc.
 
 ## Further Considerations
 {:#Further}
 
 There are many considerations to take into account when selecting an evaluation tool.
 
-Each organization, project and team will have differing needs for different features.
+Each organization, project, and team has differing needs for different features.
 
-Web designers could be looking for tools to analyse their design's accessibility performance. Web developers will prefer tools that help them assess their code. Web content authors have different requirements to help them complete their tasks. An organization may need a fully automated evaluation tool to track their whole Web site. Another organization may only need occasional spot checks.
+Web designers could be looking for tools to analyse their design's accessibility performance. Web developers will prefer tools that help them assess their code. Web content authors have different requirements to help them complete their tasks. An organization may need a fully automated evaluation tool to track their whole website. Another organization may only need occasional spot checks.
 
-You may wish to consider the following items when selecting an evaluation tool:
+You may want to consider the following items when selecting an evaluation tool:
 
 ### Organizational Structure and Development Process
 
