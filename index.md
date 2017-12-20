@@ -30,7 +30,7 @@ Web accessibility evaluation tools can help you quickly identify potential acces
 We cannot check all accessibility aspects automatically. Human judgement is required. Sometimes evaluation tools can produce false or misleading results. Web accessibility evaluation tools can not *determine* accessibility, they can only *assist* in doing so.
 
 ## Features of Evaluation Tools
-{:#Features}
+{:#features}
 
 Web accessibility evaluation tools target different audiences. This includes designers, developers, non-technical content authors, quality assurance testers, and sometimes also end-users. Tools offer different features and functionality which may help users to compare and assess web accessibility evaluation tools for their specific needs.
 
@@ -96,7 +96,7 @@ Evaluation tools provide different types of online services:
 Many tools generate report formats such as HTML, CSV, PDF, XML, etc.
 
 ## Further Considerations
-{:#Further}
+{:#further}
 
 There are many considerations to take into account when selecting an evaluation tool.
 
