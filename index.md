@@ -45,7 +45,7 @@ Different organizations and governments may require conformance with different a
 Evaluation tools support different languages. This includes the user interface of the tools, as well as the language of the content they support (for example, for detecting language-related barriers).
 
 * **Type of Tool**<br>
-Evaluation tools can be plugins (extensions) for authoring tools and web browsers, command line tools, desktop or mobile applications, and online services. Diffent tools may be combined, depending on your design and development process.
+Evaluation tools can be plugins (extensions) for authoring tools and web browsers, command line tools, desktop or mobile applications, and online services. Different tools may be combined, depending on your design and development process.
 
 * **Supported Formats**<br>
 Most evaluation tools check the accessibility of HTML content. Some check other web technologies, such as WAI-ARIA, CSS, SVG, and PDF.
@@ -88,7 +88,7 @@ Evaluation tools provide different types of online services:
 
   * *Online checkers* often are websites where you can enter your own website's address to get it checked. Sometimes this may also be a web service accessed through an API by authoring or quality assurance tools.
 
-  * *Hosted services* can regularly check your entire website and provide reports on improvements over time. They may also offer other solutions for enterprises. Usualy these require subscription with the tool vendor.
+  * *Hosted services* can regularly check your entire website and provide reports on improvements over time. They may also offer other solutions for enterprises. Usually these require subscription with the tool vendor.
 
   * *Server installation* of some evaluation tools provides an integrated way to check your entire website on your internal network. They can sometimes check password-restricted or draft content.
 
@@ -102,13 +102,13 @@ There are many considerations to take into account when selecting an evaluation 
 
 Each organization, project, and team has differing needs for different features.
 
-Web designers could be looking for tools to analyse their design's accessibility performance. Web developers will prefer tools that help them assess their code. Web content authors have different requirements to help them complete their tasks. An organization may need a fully automated evaluation tool to track their whole website. Another organization may only need occasional spot checks.
+Web designers could be looking for tools to analyze their design's accessibility performance. Web developers will prefer tools that help them assess their code. Web content authors have different requirements to help them complete their tasks. An organization may need a fully automated evaluation tool to track their whole website. Another organization may only need occasional spot checks.
 
 You may want to consider the following items when selecting an evaluation tool:
 
 ### Organizational Structure and Development Process
 
-Development teams may gain from using a combination of evaluation tools. Using a combination of tools could meet the various teams members' needs during all stages of the project.
+Development teams may gain from using a combination of evaluation tools. Using a combination of tools could meet the various team members' needs during all stages of the project.
 
 ### Complexity and Size of the Web Content
 
