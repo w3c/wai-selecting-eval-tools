@@ -68,7 +68,7 @@ The scope of what the evaluation tool can automatically test varies depending on
 Evaluation tools are available under a variety of license types, such as Open Source, Commercial, Enterprise, etc.
 
 * **Accessibility Information**<br>
-People with disabilities can and do contribute to the Web. It is important for evaluation tools to be accessible for people with disabilities. Some tools provide information on how well they support accessibility.
+It is important that evaluation tools are accessible so that people with disabilities can use them. Some tools provide information on how well they support accessibility.
 
 ### More Detailed Features
 
