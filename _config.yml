@@ -33,12 +33,11 @@ repository: w3c/wai-selecting-eval-tools
 
 ytkey: AIzaSyCiZ9uToWu9jb7BTx47NtzCvmGGXKXp8nI
 
-includes_dir: _external/wai-website-jekyll-templates/_includes
-layouts_dir: _external/wai-website-jekyll-templates/_layouts
+remote_theme: w3c/wai-website-theme
 
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-include-cache
-
+  - jekyll-remote-theme
