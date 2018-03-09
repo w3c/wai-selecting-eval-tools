@@ -1,5 +1,3 @@
-# wai-resource-template
+# wai-selecting-eval-tools
 
-Fork this repository to create a new resource.
-
-More documentation to come!
+Preview: https://w3c.github.io/wai-selecting-eval-tools/test-evaluate/tools/selecting/
