@@ -2,6 +2,8 @@
 layout: default
 title: "Selecting Web Accessibility Evaluation Tools"
 permalink: /test-evaluate/tools/selecting/
+github:
+  repository: w3c/wai-selecting-eval-tools
 footer: >
   <p><strong>Status:</strong> Updated 23 December 2017.<br>
   Editors: Shadi Abou-Zahra, Nicolas Steenhout, and Laura Keen. Developed by the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
