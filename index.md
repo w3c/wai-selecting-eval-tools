@@ -9,15 +9,6 @@ footer: >
   Editors: Shadi Abou-Zahra, Nicolas Steenhout, and Laura Keen. Developed by the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
-{::options toc_levels="2" /}
-
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="full" %}
-{:/}
-
--   TOC is created automatically.
-{:toc}
-
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
@@ -31,6 +22,15 @@ Web accessibility evaluation tools are software programs or online services that
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
+
+{::options toc_levels="2" /}
+
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{:/}
+
+-   TOC is created automatically.
+{:toc}
 
 ## What Evaluation Tools Can Do and Can *Not* Do
 {:#cannot}
