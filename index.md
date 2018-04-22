@@ -5,8 +5,10 @@ permalink: /test-evaluate/tools/selecting/
 github:
   repository: w3c/wai-selecting-eval-tools
 footer: >
-  <p><strong>Status:</strong> Updated 23 December 2017.<br>
-  Editors: Shadi Abou-Zahra, Nicolas Steenhout, and Laura Keen. Developed by the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p><strong>Date:</strong> Updated 23 December 2017.</p>
+  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/shadi">Shadi Abou-Zahra</a>, Nicolas Steenhout, and Laura Keen.</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+
 ---
 
 
