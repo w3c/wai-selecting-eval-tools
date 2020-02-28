@@ -1,3 +1,3 @@
 # wai-selecting-eval-tools
 
-Preview: https://w3c.github.io/wai-selecting-eval-tools/test-evaluate/tools/selecting/
+Preview: https://wai-selecting-eval-tools.netlify.com/test-evaluate/tools/selecting/
