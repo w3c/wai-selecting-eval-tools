@@ -6,9 +6,9 @@ github:
   repository: w3c/wai-selecting-eval-tools
   path: content/index.md
 footer: >
-  <p><strong>Date:</strong> Updated 23 December 2017.</p>
+  <p><strong>Date:</strong> Updated 11 March 2020.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/shadi">Shadi Abou-Zahra</a>, Nicolas Steenhout, and Laura Keen.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Video developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="/WAI/test-evaluate/acknowledgements">Acknowledgments for video</a>.</p>
 
 ---
 
