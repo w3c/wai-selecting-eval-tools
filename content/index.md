@@ -4,6 +4,7 @@ title: "Selecting Web Accessibility Evaluation Tools"
 permalink: /test-evaluate/tools/selecting/
 github:
   repository: w3c/wai-selecting-eval-tools
+  path: content/index.md
 footer: >
   <p><strong>Date:</strong> Updated 23 December 2017.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/shadi">Shadi Abou-Zahra</a>, Nicolas Steenhout, and Laura Keen.</p>
