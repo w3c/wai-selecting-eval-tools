@@ -38,17 +38,16 @@ Web accessibility evaluation tools are software programs or online services that
 
 {% include excol.html type="start" id="video-intro" %}
 
-## <img src="https://www.w3.org/WAI/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" alt="" style="height: 2em; border-radius: .25em; vertical-align: middle;"> Video: Selecting and Using Tools
+## {% include image.html src="video-thumb-tools.png" alt="" class="video tiny" %} Video: Selecting and Using Tools {#video}
 
 {% include excol.html type="middle" %}
 
 {% include video-player.html
-    yt-id="93UgG72os8M"
-    captions="/keyboard-en.vtt|en|Captions"
-    descriptions=""
+    yt-id="R8ZxY612LVY"
+    captions="https://media.w3.org/wai/evaluation-intros/tools-for-evaluating-cc.vtt"
 %}
 
-_This video is also available on a [W3C server (file format: MP4, file size: 2MB) - Video: Selecting and Using Tools](https://@@)._
+_This video is also available on a [W3C server (file format: MP4, file size: 51MB) - Video: Selecting and Using Tools](http://media.w3.org/wai/evaluation-intros/tools-for-evaluating.mp4)._
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
@@ -63,50 +62,69 @@ Text Transcript with Description of Visuals
       <th>Visual</th>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td>Web Accessibility Perspectives: Keyboard Compatibility</td>
-      <td>Web Accessibility Perspectives:<br />
-        Keyboard Compatibility</td>
-    </tr>
-    <tr>
-      <td>Not being able to use your computer because your mouse doesn't work, is frustrating.</td>
-      <td>A man drops his computer mouse off the desk. The computer mouse no longer works.</td>
-    </tr>
-    <tr>
-      <td>Many people use only the keyboard to navigate websites &mdash; either through preference or circumstance.<br /></td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Whether it's temporarily limited mobility,</td>
-      <td>A woman with her arm in a sling is typing on a keyboard &mdash; but the website requires the use of a mouse to select the date.</td>
-    </tr>
-    <tr>
-      <td>a permanent physical disability,</td>
-      <td>A man with a wheelchair is using a mouth-stick to type.</td>
-    </tr>
-    <tr>
-      <td>or simply a broken mouse,<br />
-        the result is the same:</td>
-      <td>The man with the wheelchair also cannot use the site.</td>
-    </tr>
-    <tr>
-      <td>Websites and apps need to be operable by keyboard.</td>
-      <td>He switches to a different website that allows typing the date.</td>
-    </tr>
-    <tr>
-      <td>Web accessibility: Essential for some, useful for all.</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Visit w3.org/WAI/perspectives for more information on Keyboard Compatibility</td>
-      <td>Visit<br />
-        w3.org/WAI/perspectives<br />
-        for more information on<br />
-        Keyboard Compatibility.<br />
-        W3C Web Accessibility Initiative logo</td>
-    </tr>
-  </tbody>
+<tbody>
+  <tr>
+    <td>Tools for evaluating web accessibility </td>
+    <td>Tools for evaluating web accessibility.</td>
+  </tr>
+  <tr>
+    <td>There are software programs and online services to help you identify accessibility barriers. </td>
+    <td>A tool box by a computer opens. A magnifying glass with the word accessibility comes out to inspect a website on the computer.</td>
+  </tr>
+  <tr>
+    <td>They can save you lots of time and effort on evaluation, and can help you avoid creating new accessibility barriers. </td>
+    <td>Save time and effort. Avoid accessibility barriers.</td>
+  </tr>
+  <tr>
+    <td>However, tools can't do it all. Some accessibility checks just cannot be automated and require manual intervention. </td>
+    <td>A person next to a computer with a website uses a magnifying glass with the word accessibility.</td>
+  </tr>
+  <tr>
+    <td>Some tools guide you through the checks that cannot be automated. </td>
+    <td>A list of checks next to the computer.</td>
+  </tr>
+  <tr>
+    <td>Some tools check one page at a time, while others can scan entire websites. </td>
+    <td>A web page and a web site are being scanned fails, passes and interrogations marks are shown.</td>
+  </tr>
+  <tr>
+    <td>Tools can be integrated into different work environments. For example, into your web browser, content management system (C-M-S), and your development and deployment tools. </td>
+    <td>Web browser, CMS and deployment around a tools icon displayed in a computer.</td>
+  </tr>
+  <tr>
+    <td>They support different roles in a project team, such as content authors, code developers, designers, and product owners. </td>
+    <td>The tools icon is surrounded with icons: pen; coding; paintbrush and person with a key.</td>
+  </tr>
+  <tr>
+    <td>Note that in some cases tools can provide inaccurate results. </td>
+    <td>A magnifying glass with a triangular exclamation mark sign.Multiple magnifying glasses are displayed.
+ </td>
+  </tr>
+  <tr>
+    <td>So avoid relying too much on what tools say over addressing the real-life experience of website users. </td>
+    <td>The screen splits into 12 different people in front of a computer.</td>
+  </tr>
+  <tr>
+    <td>"Selecting Web Accessibility Evaluation Tools" explains what tools can and cannot do, and what to look for in tools that meet your needs. </td>
+    <td>Selecting Web Accessibility Evaluation Tools. A toolbox icon comes in followed by a signpost and a binoculars icon.</td>
+  </tr>
+  <tr>
+    <td>The list of web accessibility evaluation tools has filters to help you find the right tool for your particular situation. </td>
+    <td>A list of documents with the word tool scroll down and to a filter icon, only two documents come out.</td>
+  </tr>
+  <tr>
+    <td>Equipped with tools and knowledge on how to use them, you are in good shape to find accessibility barriers more efficiently. </td>
+    <td>A person with a tools and light bulb icons. The two icons merge together to form a magnifying glass with the word barriers.</td>
+  </tr>
+  <tr>
+    <td>Web accessibility: essential for some, useful for all. </td>
+    <td>Icons around a computer: hand; eye; brain; ear; and mouth with sound waves.</td>
+  </tr>
+  <tr>
+    <td>For information on tools for evaluating web accessibility, visit w3.o-r-g/W-A-I/evaluation. </td>
+    <td>Evaluation tools, W3C and Web Accessibility Initiative (WAI) logos.</td>
+  </tr>
+</tbody>
 </table>
 
 {% include excol.html type="end" %}
