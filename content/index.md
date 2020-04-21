@@ -6,7 +6,8 @@ github:
   repository: w3c/wai-selecting-eval-tools
   path: content/index.md
 footer: >
-  <p><strong>Date:</strong> Updated 11 March 2020.</p>
+  <p>Note about video description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
+  <p><strong>Date: </strong>Main content updated 23 December 2017. Intro video added 28 March 2020.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/shadi">Shadi Abou-Zahra</a>, Nicolas Steenhout, and Laura Keen.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Video developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="/WAI/test-evaluate/acknowledgements">Acknowledgments for video</a>.</p>
 
@@ -38,16 +39,16 @@ Web accessibility evaluation tools are software programs or online services that
 
 {% include excol.html type="start" id="video-intro" %}
 
-## {% include image.html src="video-thumb-tools.png" alt="" class="video tiny" %} Video: Selecting and Using Tools {#video}
+## {% include image.html src="video-thumb-tools.png" alt="" class="video tiny" %} Video: Evaluation Tools Overview {#video}
 
 {% include excol.html type="middle" %}
 
 {% include video-player.html
-    yt-id="R8ZxY612LVY"
+    yt-id="bn1XJSjc_qM"
     captions="https://media.w3.org/wai/evaluation-intros/tools-for-evaluating-cc.vtt"
 %}
 
-_This video is also available on a [W3C server (file format: MP4, file size: 51MB) - Video: Selecting and Using Tools](http://media.w3.org/wai/evaluation-intros/tools-for-evaluating.mp4)._
+_This video is also available on a W3C server: [Video: Evaluation Tools Overview (file format: MP4, file size: 51MB)](http://media.w3.org/wai/evaluation-intros/tools-for-evaluating.mp4)._
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
