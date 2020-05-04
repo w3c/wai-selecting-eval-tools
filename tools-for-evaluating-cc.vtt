@@ -1,0 +1,105 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:04.340
+Tools for evaluating web accessibility.
+
+2
+00:00:04.340 --> 00:00:11.620
+There are software programs and online services to help you identify accessibility barriers.
+
+3
+00:00:11.620 --> 00:00:14.381
+They can save you lots of time and effort
+on evaluation,
+
+4
+00:00:14.381 --> 00:00:18.480
+and can help you avoid creating new accessibility barriers.
+
+5
+00:00:18.480 --> 00:00:22.210
+However, tools can't do it all.
+
+6
+00:00:22.210 --> 00:00:28.410
+Some accessibility checks just cannot be automated
+and require manual intervention.
+
+7
+00:00:28.410 --> 00:00:32.599
+Some tools guide you through the checks that
+cannot be automated.
+
+8
+00:00:32.599 --> 00:00:38.340
+Some tools check one page at a time, while
+others can scan entire websites.
+
+9
+00:00:38.340 --> 00:00:41.940
+Tools can be integrated into different work environments.
+
+10
+00:00:41.940 --> 00:00:46.699
+For example, into your web browser, content
+management system or CMS,
+
+11
+00:00:46.699 --> 00:00:50.139
+and your development and deployment tools.
+
+12
+00:00:50.140 --> 00:00:52.760
+They support different roles in a project team,
+
+13
+00:00:52.760 --> 00:00:59.170
+such as content authors, code developers,  designers, and product owners.
+
+14
+00:00:59.170 --> 00:01:03.809
+Note that in some cases tools can provide
+inaccurate results.
+
+15
+00:01:03.809 --> 00:01:06.145
+So avoid relying too much on what tools say
+
+16
+00:01:06.145 --> 00:01:11.620
+over addressing the real-life experience of website users.
+
+17
+00:01:11.620 --> 00:01:17.820
+"Selecting Web Accessibility Evaluation Tools"
+explains what tools can and cannot do,
+
+18
+00:01:17.820 --> 00:01:21.600
+and what to look for in tools that meet your needs.
+
+19
+00:01:21.600 --> 00:01:26.830
+The list of web accessibility evaluation tools
+has filters to help you find the right tool
+
+20
+00:01:26.830 --> 00:01:29.800
+for your particular situation.
+
+21
+00:01:29.800 --> 00:01:32.511
+Equipped with tools and knowledge on how to use them,
+
+22
+00:01:32.511 --> 00:01:37.710
+you are in good shape to find accessibility barriers more efficiently.
+
+23
+00:01:37.710 --> 00:01:42.300
+Web accessibility: essential for some, useful for all.
+
+24
+00:01:42.300 --> 00:01:53.440
+For information on tools for evaluating web accessibility visit w3.org/WAI/evaluation
