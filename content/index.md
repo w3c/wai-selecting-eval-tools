@@ -45,7 +45,7 @@ Web accessibility evaluation tools are software programs or online services that
 
 {% include video-player.html
     yt-id="bn1XJSjc_qM"
-    captions="tools-for-evaluating-cc.vtt"
+    captions="tools-for-evaluating-cc.vtt|en|Captions"
 %}
 
 _This video is also available on a W3C server: [Video: Evaluation Tools Overview (file format: MP4, file size: 51MB)](http://media.w3.org/wai/evaluation-intros/tools-for-evaluating.mp4)._
