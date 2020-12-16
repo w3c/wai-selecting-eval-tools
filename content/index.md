@@ -1,10 +1,19 @@
 ---
-layout: default
-title: "Selecting Web Accessibility Evaluation Tools"
+title: Selecting Web Accessibility Evaluation Tools
+lang: en
 permalink: /test-evaluate/tools/selecting/
 github:
-  repository: w3c/wai-selecting-eval-tools
   path: content/index.md
+  repository: w3c/wai-selecting-eval-tools
+last_updated: 2020-01-01
+# translators:   # delete the '#' and the space at the beginning of each line below that you use
+# - name: "first last"
+# contributors:
+# - name: "given family" 
+
+layout: default
+ref: /test-evaluate/tools/selecting/  # translators don't change this
+
 footer: >
   <p>Note about video description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
   <p><strong>Date: </strong>Main content updated 23 December 2017. Intro video added 28 March 2020.</p>
