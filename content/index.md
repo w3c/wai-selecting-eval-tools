@@ -236,3 +236,5 @@ Some complex sites could have a lot of multimedia content. Other complex sites c
 ### Skills and Knowledge of the Web Developers
 
 Select the tool commensurate to team's skills. Some evaluation tools require users to have more knowledge of accessibility or code. Some tools also help to increase accessibility or code knowledge.
+
+..
