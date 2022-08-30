@@ -172,10 +172,10 @@ Evaluation tools are available under a variety of license types, such as Open So
 * **Type of Tool**<br>
 Evaluation tools can be plugins (extensions) for authoring tools and web browsers, command line tools, desktop or mobile applications, and online services. Different tools may be combined, depending on your design and development process.
 
-* **Guidelines**<br>
+* **Guidelines and standards**<br>
 Different organizations and governments may require conformance with different accessibility standards, thus different tools support these standards. The W3C Web Content Accessibility Guidelines (WCAG) is internationally recognized as the standard for web accessibility, and supported by most tools.
 
-* **Supported files**<br>
+* **Files to evaluate**<br>
 Most evaluation tools check the accessibility of HTML content. Some check other web technologies, such as WAI-ARIA, CSS, SVG and PDF.
 
 * **Scope**<br>
@@ -191,7 +191,7 @@ Sometimes, tools only work in specific browsers like in Chrome, Edge, Safari, Fi
 It is important that evaluation tools are accessible so that people with disabilities can use them. Some vendors provide information on the accessibility of their tool in an accessibility statement.
 
 * **ACT Rules**<br>
-Tool vendors can describe if and how their tool(s) support the Accessibility Conformance Testing Rules. If there is a report about the implementation of the rules, the details section of the tool in the Web Accessibility Evaluation Tools List will provide a link to the report.
+Tool vendors can describe if and how their tool(s) support the Accessibility Conformance Testing Rules. If there is a report about the implementation of the rules, the details section of the tool in the Web Accessibility Evaluation Tools List will provide a link to the report. For more information, read [ACT Rules Implementation in Test Tools and Methodologies](https://www.w3.org/WAI/standards-guidelines/act/implementations/).
 
 * **Language**<br>
 Evaluation tools support different languages. This includes the user interface of the tools, as well as the language of the content they support (for example, for detecting language-related barriers).
