@@ -182,7 +182,7 @@ Most evaluation tools check the accessibility of HTML content. Some check other 
 The scope of what the evaluation tool can automatically test varies depending on the tool. Some tools check a single page, while others check entire groups of related pages. Some can also access password-restricted content.
 
 * **Operating system**<br>
-Some tools only work on specific operating systems like Windows, MacOS, Linux, Andriod, iOS.
+Some tools only work on specific operating systems like Windows, MacOS, Linux, Android, iOS.
 
 * **Browser**<br>
 Sometimes, tools only work in specific browsers like in Chrome, Edge, Safari, Firefox, etc.
@@ -201,7 +201,7 @@ Some web accessibility evaluation tools can (help you) generate a complete acces
 
   * *Generate a report of evaluation results:* Reports are useful to determine the conformance of the criteria that can be automatically and manually checked. This may also include an accessibility score.
 
-  * *Display information within pages:* This means that the tool can inserts temporary icons and markup to display results of accessibility checks. They are useful to view issues in context. They are also useful to understand the relative importance of each issue.
+  * *Display information within pages:* This means that the tool can insert temporary icons and markup to display results of accessibility checks. They are useful to view issues in context. They are also useful to understand the relative importance of each issue.
   
   * *Modify the presentation of pages:* Transformation tools change the appearance of a webpage or site to help identify design issues. For example, the tool may show the site in text only or without color. These tools are useful to compensate for the limitations of automated testing.
 
