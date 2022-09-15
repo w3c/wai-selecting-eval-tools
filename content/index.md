@@ -46,7 +46,7 @@ Web accessibility evaluation tools are software programs or online services that
 {% include_cached toc.html type="end" %}
 {:/}
 
-{% include excol.html type="start" id="video-intro" %}
+{% include excol.html type="start" id="video-intro" open="true" %}
 
 ## {% include image.html src="video-thumb-tools.png" alt="" class="video tiny" %} Video: Evaluation Tools Overview {#video}
 
