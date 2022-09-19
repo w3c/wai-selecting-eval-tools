@@ -184,7 +184,7 @@ The scope of what the evaluation tool can automatically test varies depending on
 * **Operating system**<br>
 Some tools only work on specific operating systems like Windows, MacOS, Linux, Android, iOS.
 
-* **Browser**<br>
+* **Browser for plugin**<br>
 Sometimes, tools only work in specific browsers like in Chrome, Edge, Safari, Firefox, etc.
 
 * **Accessibility Statement**<br>
