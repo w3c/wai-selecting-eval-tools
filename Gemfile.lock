@@ -10,6 +10,7 @@ PATH
       jekyll-remote-theme
       jekyll-seo-tag
       jekyll-sitemap
+      rouge (= 3.30.0)
       wai-website-plugin
 
 GEM
@@ -28,7 +29,6 @@ GEM
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.1)
     ffi (1.15.5)
-    ffi (1.15.5-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
     i18n (1.12.0)
