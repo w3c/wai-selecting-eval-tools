@@ -2,6 +2,9 @@
 title: Selecting Web Accessibility Evaluation Tools
 lang: en
 permalink: /test-evaluate/tools/selecting/
+
+doc-note-type: draft
+
 github:
   path: content/index.md
   repository: w3c/wai-selecting-eval-tools
@@ -15,11 +18,9 @@ layout: default
 ref: /test-evaluate/tools/selecting/  # translators don't change this
 
 footer: >
-  <p>Note about video description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
-  <p><strong>Date: </strong>Main content updated 23 December 2017. Intro video added 28 March 2020.</p>
-  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/shadi">Shadi Abou-Zahra</a>, Nicolas Steenhout, and Laura Keen.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Video developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="/WAI/test-evaluate/acknowledgements">Acknowledgments for video</a>.</p>
-
+   <p><strong>Date:</strong> Information on specific tools is updated frequently, as we receive it. In the information for each tool there is a last updated date. The Evaluation Tools List user interface was updated in December 2023. First published in March 2006.</p>
+   <p><strong>Latest editors and developers:</strong> <a href="https://www.w3.org/People/kevin/">Kevin White</a>, Michel Hansma, and Vera Lange. <strong>Content maintainer:</strong> José Ramón Hilera González. <a href="https://www.w3.org/WAI/ER/tools/acknowledgements">Acknowledgements</a> lists contributors and previous editors, including <a href="https://www.w3.org/groups/wg/eowg/participants/">EOWG participants</a>, Eric Eggert, and Shadi Abou-Zahra.</p>
+   <p>Developed by the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) Developed with support from the <a href="https://www.w3.org/WAI/TIES/">WAI-TIES Project</a> in 2006, updated with support from the <a href="https://www.w3.org/WAI/ACT/">WAI-ACT Project</a> in 2014, and revised in 2023 as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.
 ---
 
 
@@ -46,11 +47,7 @@ Web accessibility evaluation tools are software programs or online services that
 {% include_cached toc.html type="end" %}
 {:/}
 
-{% include excol.html type="start" id="video-intro" open="true" %}
-
-## {% include image.html src="video-thumb-tools.png" alt="" class="video tiny" %} Video: Evaluation Tools Overview {#video}
-
-{% include excol.html type="middle" %}
+## Video: Evaluation Tools Overview {#video}
 
 {% include video-player.html
     yt-id="bn1XJSjc_qM"
@@ -68,14 +65,14 @@ Text Transcript with Description of Visuals
 <table>
   <thead>
     <tr>
-      <th width="65%">Audio</th>
+      <th width="50%">Audio</th>
       <th>Visual</th>
     </tr>
   </thead>
 <tbody>
   <tr>
-    <td>Tools for evaluating web accessibility </td>
-    <td>Tools for evaluating web accessibility.</td>
+    <td>Tools for evaluating web accessibility</td>
+    <td>Tools for evaluating web accessibility</td>
   </tr>
   <tr>
     <td>There are software programs and online services to help you identify accessibility barriers. </td>
@@ -131,13 +128,11 @@ Text Transcript with Description of Visuals
     <td>Icons around a computer: hand; eye; brain; ear; and mouth with sound waves.</td>
   </tr>
   <tr>
-    <td>For information on tools for evaluating web accessibility, visit w3.o-r-g/W-A-I/evaluation. </td>
+    <td>For information on tools for evaluating web accessibility, visit <a href="https://www.w3.org/WAI/evaluation">w3.org/WAI/evaluation</a>. </td>
     <td>Evaluation tools, W3C and Web Accessibility Initiative (WAI) logos.</td>
   </tr>
 </tbody>
 </table>
-
-{% include excol.html type="end" %}
 
 {% include excol.html type="end" %}
 
@@ -157,47 +152,44 @@ Web accessibility evaluation tools target different audiences. This includes des
 
 The following features describe tools found on the [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/). These can be used as filters to reduce the number of tools shown.
 
-* **Purpose**<br>
-Are you looking for a tool that can do an automated test, or should the tool help you with manual testing or a simulation of the user experience.
+**Purpose**
+: Are you looking for a tool that can do an automated test, or should the tool help you with manual testing or a simulation of the user experience.
 
-* **Product to evaluate**<br>
-Depending on the sort of product you are evaluating (e.g. website, document, application)  you may need a specific tool that can best help you. Some tools specialize in evaluation of websites, others in documents, desktop applications, mobile applications, etc. 
+**Product evaluated**
+: Depending on the sort of product you are evaluating (e.g. website, document, application)  you may need a specific tool that can best help you. Some tools specialize in evaluation of websites, others in documents, desktop applications, mobile applications, etc. 
 
-* **Accessibility checks**<br>
-Sometimes you may want to use a tool for a specific task, like checking color contrast or readability. You can filter the list on common issues like color contrast, page structure, text alternatives, forms, etc.
+**Paid or free**
+: Evaluation tools are available under a variety of license types, such as Open Source, Commercial, Enterprise, etc. Some tools are paid, others free.
 
-* **Paid or free**<br>
-Evaluation tools are available under a variety of license types, such as Open Source, Commercial, Enterprise, etc. Some tools are paid, others free.
+**Type of tool**
+: Evaluation tools can be plugins (extensions) for authoring tools and web browsers, command line tools, desktop or mobile applications, and online services. Different tools may be combined, depending on your design and development process.
 
-* **Type of Tool**<br>
-Evaluation tools can be plugins (extensions) for authoring tools and web browsers, command line tools, desktop or mobile applications, and online services. Different tools may be combined, depending on your design and development process.
+**Standards**
+: Different organizations and governments may require conformance with different accessibility standards, thus different tools support these standards. The W3C Web Content Accessibility Guidelines (WCAG) is internationally recognized as the standard for web accessibility, and supported by most tools.
 
-* **Guidelines and standards**<br>
-Different organizations and governments may require conformance with different accessibility standards, thus different tools support these standards. The W3C Web Content Accessibility Guidelines (WCAG) is internationally recognized as the standard for web accessibility, and supported by most tools.
+**File type**
+: Most evaluation tools check the accessibility of HTML content. Some check other web technologies, such as EPUB, WAI-ARIA, CSS, SVG and PDF.
 
-* **Files to evaluate**<br>
-Most evaluation tools check the accessibility of HTML content. Some check other web technologies, such as WAI-ARIA, CSS, SVG and PDF.
+**Scope**
+: The scope of what the evaluation tool can automatically test varies depending on the tool. Some tools check a single page, while others check entire groups of related pages. Some can also access password-restricted content.
 
-* **Scope**<br>
-The scope of what the evaluation tool can automatically test varies depending on the tool. Some tools check a single page, while others check entire groups of related pages. Some can also access password-restricted content.
+**Operating system**
+: Some tools only work on specific operating systems like Windows, MacOS, Linux, Android, iOS.
 
-* **Operating system**<br>
-Some tools only work on specific operating systems like Windows, MacOS, Linux, Android, iOS.
+**Browser for plugin**
+: Sometimes, tools only work in specific browsers like in Chrome, Edge, Safari, Firefox, etc.
 
-* **Browser for plugin**<br>
-Sometimes, tools only work in specific browsers like in Chrome, Edge, Safari, Firefox, etc.
+**Accessibility statement**
+: It is important that evaluation tools are accessible so that people with disabilities can use them. Some vendors provide information on the accessibility of their tool in an accessibility statement.
 
-* **Accessibility Statement**<br>
-It is important that evaluation tools are accessible so that people with disabilities can use them. Some vendors provide information on the accessibility of their tool in an accessibility statement.
+**ACT Rules**
+: Tool vendors can describe if and how their tool(s) support the Accessibility Conformance Testing Rules. If there is a report about the implementation of the rules, the details section of the tool in the Web Accessibility Evaluation Tools List will provide a link to the report. For more information, read [ACT Rules Implementation in Test Tools and Methodologies](https://www.w3.org/WAI/standards-guidelines/act/implementations/).
 
-* **ACT Rules**<br>
-Tool vendors can describe if and how their tool(s) support the Accessibility Conformance Testing Rules. If there is a report about the implementation of the rules, the details section of the tool in the Web Accessibility Evaluation Tools List will provide a link to the report. For more information, read [ACT Rules Implementation in Test Tools and Methodologies](https://www.w3.org/WAI/standards-guidelines/act/implementations/).
+**Language**
+: Evaluation tools support different languages. This includes the user interface of the tools, as well as the language of the content they support (for example, for detecting language-related barriers).
 
-* **Language**<br>
-Evaluation tools support different languages. This includes the user interface of the tools, as well as the language of the content they support (for example, for detecting language-related barriers).
-
-* **Output**<br>
-Some web accessibility evaluation tools can (help you) generate a complete accessibility report. You can filter if you want a tool that can help you:
+**Assists by**
+: Some web accessibility evaluation tools can (help you) generate a complete accessibility report. You can filter if you want a tool that can help you:
 
   * *Generate a report of evaluation results:* Reports are useful to determine the conformance of the criteria that can be automatically and manually checked. This may also include an accessibility score.
 
@@ -212,7 +204,7 @@ There are many considerations to take into account when selecting an evaluation 
 
 Each organization, project, and team has differing needs for different features.
 
-Web designers could be looking for tools to analyze their design’s accessibility performance. Web developers will prefer tools that help them assess their code. Web content authors have different requirements to help them complete their tasks. An organization may need a fully automated evaluation tool to track their whole website. Another organization may only need occasional spot checks.
+Web designers could be looking for tools to analyze their design’s accessibility performance. Web developers will prefer tools that help them assess their code. An organization may need a fully automated evaluation tool to track their whole website. Another organization may only need occasional spot checks.
 
 You may want to consider the following items when selecting an evaluation tool:
 
@@ -222,8 +214,8 @@ Development teams may gain from using a combination of evaluation tools. Using a
 
 ### Complexity and Size of the Web Content
 
-Some complex sites could have a lot of multimedia content. Other complex sites could use advanced technologies such as SMIL or MathML. Specialized evaluation tools may be critical for these websites.
+Some complex sites could have a lot of multimedia content. Other complex sites could use specialist technologies such as MathML. Specialized evaluation tools may be critical for these websites.
 
 ### Skills and Knowledge of the Web Developers
 
-Select the tool commensurate to team’s skills. Some evaluation tools require users to have more knowledge of accessibility or code. Some tools also help to increase accessibility or code knowledge.
+Select the tool commensurate to team's skills. Some evaluation tools require users to have more knowledge of accessibility or code. Some tools also help to increase accessibility or code knowledge.
