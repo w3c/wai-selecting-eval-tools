@@ -3,8 +3,6 @@ title: Selecting Web Accessibility Evaluation Tools
 lang: en
 permalink: /test-evaluate/tools/selecting/
 
-doc-note-type: draft
-
 github:
   path: content/index.md
   repository: w3c/wai-selecting-eval-tools
