@@ -160,7 +160,7 @@ The following features describe tools found on the [Web Accessibility Evaluation
 : Evaluation tools are available under a variety of license types, such as Open Source, Commercial, Enterprise, etc. Some tools are paid, others free.
 
 **Type of tool**
-: Evaluation tools can be plugins (extensions) for authoring tools and web browsers, command line tools, continuous integration tools, desktop or mobile applications, and online services. Different tools may be combined, depending on your design and development process.
+: Evaluation tools can be plugins (extensions) for authoring tools and web browsers, command line tools, desktop or mobile applications, and online services. Different tools may be combined, depending on your design and development process.
 
 **Standards**
 : Different organizations and governments may require conformance with different accessibility standards, thus different tools support these standards. The W3C Web Content Accessibility Guidelines (WCAG) is internationally recognized as the standard for web accessibility, and supported by most tools.
