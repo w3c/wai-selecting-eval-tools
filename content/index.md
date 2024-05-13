@@ -3,8 +3,6 @@ title: Selecting Web Accessibility Evaluation Tools
 lang: en
 permalink: /test-evaluate/tools/selecting/
 
-doc-note-type: draft
-
 github:
   path: content/index.md
   repository: w3c/wai-selecting-eval-tools
@@ -92,7 +90,7 @@ Text Transcript with Description of Visuals
   </tr>
   <tr>
     <td>Some tools check one page at a time, while others can scan entire websites. </td>
-    <td>A web page and a web site are being scanned fails, passes and interrogations marks are shown.</td>
+    <td>A web page and a web site are being scanned; fail, pass, and warning marks are shown.</td>
   </tr>
   <tr>
     <td>Tools can be integrated into different work environments. For example, into your web browser, content management system (C-M-S), and your development and deployment tools. </td>
