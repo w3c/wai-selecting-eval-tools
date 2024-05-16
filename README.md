@@ -1,1 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/28f5b149-d0fa-4607-a268-eb761a6a6d97/deploy-status)](https://app.netlify.com/sites/wai-selecting-eval-tools/deploys)
+> [!IMPORTANT]
+> This repository has been archived 16 May 2024.
+>
+> [Selecting Web Accessibility Evaluation Tools](https://www.w3.org/WAI/test-evaluate/tools/selecting/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
